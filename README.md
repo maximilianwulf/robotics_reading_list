@@ -1,6 +1,6 @@
 # Robotics Reading List
 
-[RoutedFusion: Learning Real-time Depth Map Fusion](https://arxiv.org/pdf/2001.04388.pd)
+[RoutedFusion: Learning Real-time Depth Map Fusion (2020)](https://arxiv.org/abs/2001.04388)
 
 [Modeling and Control of Legged Robots (~2010)](https://groups.csail.mit.edu/robotics-center/public_papers/Wieber15.pdf)
 
