@@ -1,5 +1,7 @@
 # Robotics Reading List
 
+[RoutedFusion: Learning Real-time Depth Map Fusion](https://arxiv.org/pdf/2001.04388.pd)
+
 [Modeling and Control of Legged Robots (~2010)](https://groups.csail.mit.edu/robotics-center/public_papers/Wieber15.pdf)
 
 [Preintegrated  Velocity  Bias  Estimation  to  OvercomeContact  Nonlinearities  in  Legged  Robot  Odometry (2020)](http://www.robots.ox.ac.uk/~mobile/drs/Papers/2020ICRA_wisth.pdf)
