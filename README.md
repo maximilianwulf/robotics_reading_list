@@ -1,8 +1,10 @@
 # Robotics Reading List
 
-[Optimizations in C++ Compilers](https://queue.acm.org/detail.cfm?id=3372264)
+[LSTM is dead. Long Live Transformers! (2019)](https://www.youtube.com/watch?v=S27pHKBEp30)
 
-[C++ 11/14/17/20 On The Fly](https://github.com/changkun/modern-cpp-tutorial/blob/master/book/en-us/toc.md)
+[Optimizations in C++ Compilers (2019)](https://queue.acm.org/detail.cfm?id=3372264)
+
+[C++ 11/14/17/20 On The Fly (2019)](https://github.com/changkun/modern-cpp-tutorial/blob/master/book/en-us/toc.md)
 
 [RoutedFusion: Learning Real-time Depth Map Fusion (2020)](https://arxiv.org/abs/2001.04388)
 
