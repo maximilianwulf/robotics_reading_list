@@ -1,5 +1,9 @@
 # Robotics Reading List
 
+[Optimizations in C++ Compilers](https://queue.acm.org/detail.cfm?id=3372264)
+
+[C++ 11/14/17/20 On The Fly](https://github.com/changkun/modern-cpp-tutorial/blob/master/book/en-us/toc.md)
+
 [RoutedFusion: Learning Real-time Depth Map Fusion (2020)](https://arxiv.org/abs/2001.04388)
 
 [Modeling and Control of Legged Robots (~2010)](https://groups.csail.mit.edu/robotics-center/public_papers/Wieber15.pdf)
