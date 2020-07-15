@@ -1,5 +1,7 @@
 # Robotics Reading List
 
+[Multi-Level Surface Maps for Outdoor Terrain Mapping and Loop Closing (2006)](https://www.researchgate.net/publication/221065778_Multi-Level_Surface_Maps_for_Outdoor_Terrain_Mapping_and_Loop_Closing)
+
 [ROS 2 Documentation (~2019)](https://index.ros.org/doc/ros2/)
 
 [LSTM is dead. Long Live Transformers! (2019)](https://www.youtube.com/watch?v=S27pHKBEp30)
