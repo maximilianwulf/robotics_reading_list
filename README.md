@@ -1,5 +1,7 @@
 # Robotics Reading List
 
+[A Map of Reinforcement Learning (2019)](http://louiskirsch.com/maps/reinforcement-learning)
+
 [Multi-Level Surface Maps for Outdoor Terrain Mapping and Loop Closing (2006)](https://www.researchgate.net/publication/221065778_Multi-Level_Surface_Maps_for_Outdoor_Terrain_Mapping_and_Loop_Closing)
 
 [ROS 2 Documentation (~2019)](https://index.ros.org/doc/ros2/)
