@@ -1,5 +1,11 @@
 # Robotics Reading List
 
+[Points2Surf (ECCV 2020)](https://github.com/ErlerPhilipp/points2surf)
+
+[Self-Supervised Deep Pose Corrections for Robust Visual Odometry (2020)](https://arxiv.org/pdf/2002.12339.pdf)
+
+[Local Implicit Grid Representations for 3D Scenes (CVPR 2020)](https://www.youtube.com/watch?v=XCyl1-vxfII&feature=youtu.be)
+
 [A Map of Reinforcement Learning (2019)](http://louiskirsch.com/maps/reinforcement-learning)
 
 [Multi-Level Surface Maps for Outdoor Terrain Mapping and Loop Closing (2006)](https://www.researchgate.net/publication/221065778_Multi-Level_Surface_Maps_for_Outdoor_Terrain_Mapping_and_Loop_Closing)
