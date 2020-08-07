@@ -1,5 +1,7 @@
 # Robotics Reading List
 
+[Atlas: End-to-End 3D Scene Reconstructionfrom Posed Images (2020)](https://arxiv.org/pdf/2003.10432.pdf)
+
 [Points2Surf (ECCV 2020)](https://github.com/ErlerPhilipp/points2surf)
 
 [Self-Supervised Deep Pose Corrections for Robust Visual Odometry (2020)](https://arxiv.org/pdf/2002.12339.pdf)
