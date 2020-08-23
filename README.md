@@ -1,5 +1,7 @@
 # Robotics Reading List ([link to old page](https://www.notion.so/Robotics-Reading-List-8052961c4b6146b48b77b7048c38983e))
 
+[Convolutional Occupancy Networks (2020)](https://arxiv.org/abs/2003.04618)
+
 [An Open Torque-Controlled Modular Robot Architecture for Legged Locomotion Research (2020)](https://open-dynamic-robot-initiative.github.io/)
 
 [Atlas: End-to-End 3D Scene Reconstructionfrom Posed Images (2020)](https://arxiv.org/pdf/2003.10432.pdf)
