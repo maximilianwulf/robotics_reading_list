@@ -1,5 +1,7 @@
 # Robotics Reading List ([link to old page](https://www.notion.so/Robotics-Reading-List-8052961c4b6146b48b77b7048c38983e))
 
+[Awesome Robotic Tooling (2020)](https://github.com/protontypes/awesome-robotic-tooling)
+
 [5 Minutes with Cyrill Stachniss (2020)](https://www.youtube.com/playlist?list=PLgnQpQtFTOGSO8HC48K9sPuNliY1qxzV9)
 
 [Convolutional Occupancy Networks (2020)](https://arxiv.org/abs/2003.04618)
