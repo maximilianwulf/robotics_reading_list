@@ -1,5 +1,7 @@
 # Robotics Reading List ([link to old page](https://www.notion.so/Robotics-Reading-List-8052961c4b6146b48b77b7048c38983e))
 
+[A Roadmap for US RoboticsFrom Internet to Robotics2020Edition](http://www.hichristensen.com/pdf/roadmap-2020.pdf)
+
 [MIT 6.S091: Introduction to Deep Reinforcement Learning (Deep RL) (2019)](https://www.youtube.com/watch?v=zR11FLZ-O9M)
 
 [CMake cookbook (2020)](https://github.com/dev-cafe/cmake-cookbook)
