@@ -1,5 +1,7 @@
 # Robotics Reading List ([link to old page](https://www.notion.so/Robotics-Reading-List-8052961c4b6146b48b77b7048c38983e))
 
+[CMake cookbook (2020)](https://github.com/dev-cafe/cmake-cookbook)
+
 [ROS Packages for CHAMP Quadruped Controller (2020)](https://github.com/chvmp/champ)
 
 [Awesome Robotic Tooling (2020)](https://github.com/protontypes/awesome-robotic-tooling)
