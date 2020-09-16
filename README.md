@@ -1,5 +1,7 @@
 # Robotics Reading List ([link to old page](https://www.notion.so/Robotics-Reading-List-8052961c4b6146b48b77b7048c38983e))
 
+[C++11 Standard Library Extensions — Concurrency (201?)](https://isocpp.org/wiki/faq/cpp11-library-concurrency)
+
 [Brain-Like (Neuromorphic) Computing - Computerphile (2020)](https://www.youtube.com/watch?v=Qow8pIvExH4)
 
 [A Roadmap for US Robotics From Internet to Robotics 2020 Edition](http://www.hichristensen.com/pdf/roadmap-2020.pdf)
