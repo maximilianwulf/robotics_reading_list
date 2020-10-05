@@ -1,5 +1,9 @@
 # Robotics Reading List ([link to old page](https://www.notion.so/Robotics-Reading-List-8052961c4b6146b48b77b7048c38983e))
 
+[Resource-efficient Machine Learning in 2 KB RAM for the Internet of Things (2017)](https://microsoft.github.io/EdgeML/static/docs/publications/Bonsai.pdf)
+
+[Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding (2016)](https://arxiv.org/abs/1510.00149)
+
 [C++11 Standard Library Extensions — Concurrency (201?)](https://isocpp.org/wiki/faq/cpp11-library-concurrency)
 
 [Brain-Like (Neuromorphic) Computing - Computerphile (2020)](https://www.youtube.com/watch?v=Qow8pIvExH4)
