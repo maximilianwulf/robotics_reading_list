@@ -1,5 +1,13 @@
 # Robotics Reading List ([link to old page](https://www.notion.so/Robotics-Reading-List-8052961c4b6146b48b77b7048c38983e))
 
+[Intel® VTune™ Amplifier GPU In-kernel Profiling feature with OpenCL™ sample code (2017)](https://software.intel.com/content/www/us/en/develop/articles/vtune-gpu-in-kernel-profiling.html)
+
+[Tightly-coupled  Fusion  of  Global  Positional  Measurementsin  Optimization-based  Visual-Inertial  Odometry (2020)](http://rpg.ifi.uzh.ch/docs/IROS20_Cioffi.pdf)
+
+[Learning a Contact-Adaptive Controller for Robust,Efficient Legged Locomotion (2020)](https://arxiv.org/pdf/2009.10019.pdf)
+
+[Faster than FAST: GPU-Accelerated Frontend for High-Speed VIO (IROS 2020)](https://www.youtube.com/watch?v=5Ndi9IYpI68&feature=emb_title)
+
 [Dynamic locomotion through online nonlinear motionoptimization for quadrupedal robots (2018)](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/221541/bellicoso-ral.pdf)
 
 [Rigid Body Dynamics Algorithms (2008)](https://raw.githubusercontent.com/create3000/titania/master/Papers/%5B2008%20Featherstone%5D%20Rigid%20Body%20Dynamics%20Algorithms.pdf)
