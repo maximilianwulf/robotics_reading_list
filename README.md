@@ -1,5 +1,11 @@
 # Robotics Reading List ([link to old page](https://www.notion.so/Robotics-Reading-List-8052961c4b6146b48b77b7048c38983e))
 
+[Dynamic locomotion through online nonlinear motionoptimization for quadrupedal robots (2018)](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/221541/bellicoso-ral.pdf)
+
+[Rigid Body Dynamics Algorithms (2008)](https://raw.githubusercontent.com/create3000/titania/master/Papers/%5B2008%20Featherstone%5D%20Rigid%20Body%20Dynamics%20Algorithms.pdf)
+
+[Perception-less Terrain Adaptation through Whole Body Controland Hierarchical Optimization (2016)](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/156056/eth-50106-01.pdf?sequence=1&isAllowed=y)
+
 [Resource-efficient Machine Learning in 2 KB RAM for the Internet of Things (2017)](https://microsoft.github.io/EdgeML/static/docs/publications/Bonsai.pdf)
 
 [Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding (2016)](https://arxiv.org/abs/1510.00149)
