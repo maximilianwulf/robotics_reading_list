@@ -1,5 +1,7 @@
 # Robotics Reading List ([link to old page](https://www.notion.so/Robotics-Reading-List-8052961c4b6146b48b77b7048c38983e))
 
+[Learning Quadrupedal Locomotion over Challenging Terrain (2020)](https://www.youtube.com/watch?v=9j2a1oAHDL8)
+
 [Super expressive code by Raising Levels of Abstraction (2017)](https://www.fluentcpp.com/2017/01/03/super-expressive-code-by-raising-levels-of-abstraction/)
 
 [Intel® VTune™ Amplifier GPU In-kernel Profiling feature with OpenCL™ sample code (2017)](https://software.intel.com/content/www/us/en/develop/articles/vtune-gpu-in-kernel-profiling.html)
