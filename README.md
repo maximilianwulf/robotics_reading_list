@@ -1,5 +1,7 @@
 # Robotics Reading List ([link to old page](https://www.notion.so/Robotics-Reading-List-8052961c4b6146b48b77b7048c38983e))
 
+[Self-supervised Learning of LiDAR Odometry for Robotic Applications (2020)](https://arxiv.org/abs/2011.05418)
+
 [Autonomous Spot: Long-Range Autonomous Exploration of Extreme Environments with Legged Locomotion (2020)](https://arxiv.org/abs/2010.09259)
 
 [Learning Quadrupedal Locomotion over Challenging Terrain (2020)](https://www.youtube.com/watch?v=9j2a1oAHDL8)
